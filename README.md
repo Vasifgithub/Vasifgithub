@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vasif</h1>
 <h3 align="center">Software Engineer | MERN Stack Developer | AI-ML Enthusiast</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasifgithub&label=Profile%20views&color=0e75b6&style=flat" alt="vasifgithub" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasifgithub" alt="vasifgithub" /></a> </p>
 ---
 h3>👨‍💻 About Me:</h3>
 - 🌱 **I’m currently mastering:** Data Structures and Algorithms (DSA) for placements.  
