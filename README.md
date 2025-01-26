@@ -65,8 +65,11 @@
 
 <h3>📜 Certifications:</h3>
 - 🏅 **AWS Certified Cloud Practitioner** (January 2024).  
-- 🏅 **MERN Full Stack Development Internship Certificate** (ETHNUS, December 2023).  
-- 🏅 **Career Essentials in Generative AI by LinkedIn Learning** (Completed).  
+-
+- 🏅 **MERN Full Stack Development Internship Certificate** (ETHNUS, December 2023).
+-  
+- 🏅 **Career Essentials in Generative AI by LinkedIn Learning** (Completed).
+- 
 - 🏅 **Accenture Virtual Internship in Forge** (Completed).  
 
 ---
