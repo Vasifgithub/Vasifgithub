@@ -3,12 +3,14 @@
 
 ---
 
-<h3>👨‍💻 About Me:</h3>
+## 👨‍💻 About Me:
+
 - 🌱 **I’m currently mastering:** Data Structures and Algorithms (DSA) for placements.  
 - 🚀 **I’m passionate about:** Solving real-world problems using cutting-edge technologies and building innovative solutions.  
 - 🎓 **Education:** Pursuing B.Tech in Computer Science (AI-ML specialization) from VIT-AP University.  
 - 📫 **How to reach me:** **vasif951521@gmail.com**  
 - 🏊‍♂️ **Fun fact:** I am a dancer!  
+
 
 ---
 
@@ -63,14 +65,13 @@
 
 ---
 
-<h3>📜 Certifications:</h3>
-- 🏅 **AWS Certified Cloud Practitioner** (January 2024).  
--
-- 🏅 **MERN Full Stack Development Internship Certificate** (ETHNUS, December 2023).
--  
-- 🏅 **Career Essentials in Generative AI by LinkedIn Learning** (Completed).
-- 
-- 🏅 **Accenture Virtual Internship in Forge** (Completed).  
+## 📜 Certifications:
+
+- 🏅 **AWS Certified Cloud Practitioner** (January 2024)  
+- 🏅 **MERN Full Stack Development Internship Certificate** (ETHNUS, December 2023)  
+- 🏅 **Career Essentials in Generative AI by LinkedIn Learning** (Completed)  
+- 🏅 **Accenture Virtual Internship in Forge** (Completed)
+
 
 ---
 
