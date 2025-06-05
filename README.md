@@ -7,7 +7,7 @@
 - 🚀 **I’m passionate about:** Solving real-world problems using cutting-edge technologies and building innovative solutions.  
 - 🎓 **Education:** Pursuing B.Tech in Computer Science (AI-ML specialization) from Vellore Institute of Technology - AP University.  
 - 📫 **How to reach me:** **vasif951521@gmail.com**  
--
+
 
 
 ---
