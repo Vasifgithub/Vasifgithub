@@ -4,39 +4,37 @@
 ---
 
 ## 👨‍💻 About Me:
-
-- 🌱 **I’m currently mastering:** Data Structures and Algorithms (DSA) for placements.  
 - 🚀 **I’m passionate about:** Solving real-world problems using cutting-edge technologies and building innovative solutions.  
-- 🎓 **Education:** Pursuing B.Tech in Computer Science (AI-ML specialization) from VIT-AP University.  
+- 🎓 **Education:** Pursuing B.Tech in Computer Science (AI-ML specialization) from Vellore Institute of Technology - AP University.  
 - 📫 **How to reach me:** **vasif951521@gmail.com**  
-- 🏊‍♂️ **Fun fact:** I am a dancer!  
+-
 
+
+---
+
+<h3>📄 Portfolio:</h3>
+- 📄 [View My Portfolio](https://portfolio-website-pied-nine-30.vercel.app/)  
 
 ---
 
 <h3>💼 Key Projects:</h3>
 
 - **Infant Cry Classification Using Raspberry Pi and Deep Learning**  
-  - Used MFCC for audio feature extraction, built deep learning models for cry classification, and deployed on Raspberry Pi for real-time detection.
+  - Used MFCC for audio feature extraction, CNN  models for cry classification, and deployed on Raspberry Pi for real-time detection.
   - Integrated alert systems using Telegram API.
   - *Skills:* Audio processing, IoT, Deep Learning, Edge Deployment.  
 
-- **Fake News Detection Using Deep Learning Algorithms**  
-  - Built and evaluated deep learning models (VggNet, Vgg16) to detect fake news with high accuracy.  
-  - *Skills:* Natural Language Processing, Deep Learning, Python.  
+- **Fake News Detection Using AI**  
+  - Built and evaluated Machine learning models to detect fake news with high accuracy.  
+  - *Skills:* Natural Language Processing, Machine Learning Deep Learning, Python.  
 
 - **Online Bike Showroom (MERN)**  
   - Developed a full-stack web application for online bike booking, with admin CRUD operations and user authentication.  
-  - *Skills:* React.js, Node.js, MongoDB, Express.js.  
+  - *Skills:* HTML,CSS,Bootstrap,javascriptReact.js, Node.js, MongoDB, Express.js.  
 
 - **Health Monitoring System**  
   - Built a prototype using IoT sensors to monitor temperature, heart rate, ECG, and oxygen levels, and visualized data on a web interface.  
   - *Skills:* IoT, Cloud Integration, Real-Time Data Visualization.  
-
-- **E-Commerce Application for Villages** (In Progress)  
-  - Aiming to improve accessibility to essentials for rural areas, with user-friendly shop selection and delivery charges based on distance.  
-  - *Skills:* MERN Stack, Payment Integration, UX Design.  
-
 ---
 
 ## 🌟 Experiences
@@ -61,7 +59,7 @@
 - Learned about cloud computing principles, services like **S3, EC2, IAM**, and cloud architecture best practices.  
 
 ### Academic Projects  
-- Designed and developed **AI-ML** and **IoT-based systems** during academic tenure, focusing on **problem-solving, teamwork**, and **real-time deployments**.  
+- Designed and developed **Web-Devlopment**, **AI-ML** and **IoT-based systems** during academic tenure, focusing on **problem-solving, teamwork**, and **real-time deployments**.  
 
 ---
 
@@ -73,6 +71,10 @@
 - 🏅 **Accenture Virtual Internship in Forge** (Completed)
 
 
+---
+
+<h3>📄 Publication:</h3>
+- 📄 [View My Reasearch paper](https://ijrti.org/viewpaperforall?paper=IJRTI2504197)  
 ---
 
 <h3>📄 Resume:</h3>
