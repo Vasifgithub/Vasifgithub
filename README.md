@@ -77,6 +77,8 @@
 - 📄 [View My Reasearch paper](https://ijrti.org/viewpaperforall?paper=IJRTI2504197)  
 ---
 
+---
+
 <h3>📄 Resume:</h3>
 - 📄 [View My Resume](https://drive.google.com/file/d/1rl1JiybDdPrDqbFDKU1Iw6XRE0xw9aSZ/view?usp=sharing)  
 
