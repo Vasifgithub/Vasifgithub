@@ -77,10 +77,12 @@
 
 
 ---
+## 📄 Publication
 
-<h3>📄 Publication:</h3>
-- 📄 [View My Reasearch paper](https://ijrti.org/viewpaperforall?paper=IJRTI2504197)  
----
+- Published a research paper titled **“Fake News Detection Using Artificial Intelligence: A Performance Comparison”** in *IJRTI (Vol. 10, Issue 4, April 2025)*.  
+- Compared 7 models including ML and deep learning techniques like **XGBoost, LSTM, and CNN+LSTM** for classifying fake and real news, achieving **99.7% accuracy with    XGBoost**.
+
+🔗 [View My Research Paper](https://ijrti.org/viewpaperforall?paper=IJRTI2504197)
 
 ---
 
