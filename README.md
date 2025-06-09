@@ -19,6 +19,15 @@
 
 <h3>💼 Key Projects:</h3>
 
+- **Online Bike Showroom (MERN)**  
+  - Developed a full-stack web application for online bike booking, with admin CRUD operations and user authentication.  
+  - *Skills:* HTML,CSS,Bootstrap,javascriptReact.js, Node.js, MongoDB, Express.js.  
+
+- **Assessment of Blast-Induced PPV Using ML Algorithms**
+  - Engineered features and preprocessed data from 121 blasting events, ensuring quality and consistency for better predictions. 
+  - Built an ensemble model of Linear Regression, Decision Tree, and Random Forest, achieving a high R² score of 0.95. 
+  - Deployed a Flask app for real-time PPV predictions, improving mining efficiency by 25% and ensuring safe blasting. 
+
 - **Infant Cry Classification Using Raspberry Pi and Deep Learning**  
   - Used MFCC for audio feature extraction, CNN  models for cry classification, and deployed on Raspberry Pi for real-time detection.
   - Integrated alert systems using Telegram API.
@@ -27,10 +36,6 @@
 - **Fake News Detection Using AI**  
   - Built and evaluated Machine learning models to detect fake news with high accuracy.  
   - *Skills:* Natural Language Processing, Machine Learning Deep Learning, Python.  
-
-- **Online Bike Showroom (MERN)**  
-  - Developed a full-stack web application for online bike booking, with admin CRUD operations and user authentication.  
-  - *Skills:* HTML,CSS,Bootstrap,javascriptReact.js, Node.js, MongoDB, Express.js.  
 
 - **Health Monitoring System**  
   - Built a prototype using IoT sensors to monitor temperature, heart rate, ECG, and oxygen levels, and visualized data on a web interface.  
@@ -80,7 +85,7 @@
 ---
 
 <h3>📄 Resume:</h3>
-- 📄 [View My Resume](https://drive.google.com/file/d/1rl1JiybDdPrDqbFDKU1Iw6XRE0xw9aSZ/view?usp=sharing)  
+- 📄 [View My Resume](https://drive.google.com/file/d/16ygUDMW43tk7eis_FWQjpeyQ4pqef4OQ/view?usp=sharing)  
 
 ---
 
